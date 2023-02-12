@@ -1,0 +1,27 @@
+CSE 121B - JavaScript Language
+Name: Jorge A. Chavez Ponce
+
+W05 Project Idea: A Shoping Cart
+
+Description of Project 
+
+I will built a shoping cart. The shopping cart application is a application that allows users 
+to add products to a virtual cart, view the contents of the cart and calculate the total price 
+of the products. The application will use objects to represent products, modules to store and 
+manipulate the products in the cart, and array functions to manipulate the contents of the cart 
+and display relevant information to users.
+
+Addressing Project Requirement
+
+In this application, for example, a "Product" object can be defined to represent an individual product, 
+with attributes such as the name, price and others fields. Then, a "Shopping Cart" module can be used to 
+store and manipulate the products in the cart. This module can include functions such as "addProduct" 
+to add a product to the cart and "getTotal" to calculate the total price of the products in the cart.
+
+In addition, array functions can be used to manipulate the contents of the cart, such as "reduce" 
+to calculate the total price of the products in the cart. Functions such as "map" and "filter" can also 
+be used to manipulate the products in the cart and display relevant information to users.
+
+In summary, the shopping cart application can be implemented using objects to represent the products, 
+modules to store and manipulate the products in the cart and array functions to manipulate the contents 
+of the cart and display relevant information to users.
