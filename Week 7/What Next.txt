@@ -1,0 +1,77 @@
+CSE 121B JavaScript Language - Winter 2023
+Name: Jorge A. Chavez
+
+Task Week 7: What Next?
+
+Assessing Online Sources
+
+What, do you think, made the difference between a good source and one that
+wasn't so good? 
+
+In my thoughts the difference between a good source and one that is not so good
+is often based on the accuracy, reliability and completeness of the information
+provided. A good source should have up-to-date and accurate information, be
+transparent about its sources, and offer clear, well organized content.
+
+Have you learned to tell reputable sources from iffy ones?  How have you begun to
+differentiate between reputable and iffy sources?
+
+I have learned that to see if a source is reputable and one that is not. I look
+for authors or organizations that have a respected reputation in the field I'm
+looking for, I also see on their website their legitimate domain that is relevant
+to the content I'm looking for. For example for JavaScript, I see domains that
+include JavaScript or web development.
+I also see that the information in the source is updated and that it has been
+reviewed. I also consult with other sources to corroborate the information
+provided and cross-reference the information in order to guarantee the veracity
+of the information. I also see that the information is properly ordered and
+relevant.
+
+If, for example, you were going to answer someone's coding question about this
+language, what should you do to be a reputable source?
+
+I would ensure that my answer is based on accurate and up to date information,
+and provide references to credible sources to support my answer. It's also
+important to be clear and concise in my explanation, and to provide working
+examples or code snippets whenever possible.
+
+What online sources have you used and in what order would you rank them for
+quality and usability?
+
+1. Mozilla Developer Network (MDN). It is one of the most reliable and
+comprehensive sources for JavaScript documentation. MDN provides a detailed
+reference guide for all language features and functions, and is regularly updated
+to reflect the latest updates and changes. The code examples are clear and
+helpful, and the documentation is presented in an easy to understand format for
+beginners and experienced programmers alike.
+Link: https://developer.mozilla.org/es/docs/Web/JavaScript
+
+2. W3Schools. It is an educational website that covers many programming topics,
+including JavaScript. W3Schools offers a wealth of tutorials and code samples, as
+well as an online practice to help developers apply what they've learned. The
+code examples are clear and well explained, and the web page structure is easy to
+navigate.
+Link: https://www.w3schools.com/jsref/default.asp
+
+3. DevDocs. The DevDocs platform offers a complete and up to date collection of
+official JavaScript documentation, including the ECMAScript specification, as
+well as documentation for popular libraries and frameworks such as React,
+Angular, Vue, and jQuery. For this reason, DevDocs is a good source for
+JavaScript documentation, as it offers a wide range of up to date information, an
+easy to use interface, and useful features that allow developers to quickly find
+the JavaScript information they need.
+Link: https://devdocs.io/javascript/
+
+4. Javascript.info. JavaScript.info is a good source of information on JavaScript
+due to its comprehensive focus on learning the language, its clean and
+easy to use user interface, and its wealth of practical examples and exercises.
+The platform is updated and maintained by a team of JavaScript experts, making it
+a trusted source for developers looking to improve their JavaScript skills.
+Link: https://javascript.info/
+
+5. Stack Overflow. It is a question and answer platform that offers a large
+number of solutions and resources for specific JavaScript problems. Community
+members often provide quick and helpful answers, and the answers with the most
+votes are often the most helpful and accurate. Stack Overflow is a useful tool
+for any programmer looking for solutions to specific problems in their code.
+Link: https://stackoverflow.com/questions/tagged/javascript
